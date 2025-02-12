@@ -1,4 +1,5 @@
 // Simple C++ program to display "Hello World" 
+// Author: Shannon Winkler <shannon.winkler@lps53.org>
 // Header file for input output functions 
 #include<iostream>  
   
